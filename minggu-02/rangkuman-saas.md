@@ -234,3 +234,16 @@ Selanjutnya, kami juga akan menunjukkan kepada Anda beberapa panduan mendalam te
 
 Mulailah dengan pengujian perangkat lunak sekarang
 Artikel ini dibawakan kepada Anda oleh Usersnap - alat umpan balik dan pelacakan bug Anda. Digunakan oleh perusahaan perangkat lunak seperti Facebook, Google, dan AddThis. Baca posting blog ini tentang bagaimana Usersnap membantu selama pengembangan aplikasi SaaS Anda.
+
+<h2>2. Carilah 3 layanan SaaS</h2>
+
+layanan aplikasi email yaitu gmail, yahoo dan outlook 
+aplikasi media sosial adalah twitter, facebook dan google+.
+aplikasi yaitu Office 365 dan Adobe Creative Cloud.
+
+<h2> cari juga software desktop / non cloud yang mempunyai funsionalitas sama.</h2>
+
+Software non cloud "Procare Support"
+yaotu berfungsi untuk 
+Temukan alat pilihan untuk bisnis yang berpusat pada anak seperti milik Anda. Procare menyederhanakan pengelolaan penitipan anak dan pusat penitipan anak dari informasi anak dan keluarga dalam berbagai pengaturan bisnis termasuk: pusat penitipan anak, penyedia penitipan anak, prasekolah, taman kanak-kanak dan program afterschool, distrik sekolah, program pengayaan, pusat kegiatan anak dan fasilitas serupa.
+
