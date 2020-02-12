@@ -13,7 +13,7 @@ SaaS (Perangkat Lunak sebagai layanan)
 
 Ini adalah level abstraksi tertinggi dan berarti Anda hanya menggunakan aplikasi web dan tidak pernah melihat tumpukan perangkat keras dan lunak yang membuatnya berjalan. Anda memasukkan data Anda sendiri ke dalam aplikasi yang disediakan namun beberapa aplikasi yang lebih besar memungkinkan untuk membangun aplikasi khusus di atas.
 
-<img src="https://github"</a>
+<img src="https://github.com/Bagas033/tekn-cloud-computing/blob/master/minggu-02/01.png"/>
 
 <h3>2. SaaS Platform Architecture.</h3>
 
